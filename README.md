@@ -1,5 +1,5 @@
+#Block game like TokyoFriendPark in Japanese TV program
 ![Image from Gyazo](https://i.gyazo.com/a33af862ab6256decc3229632a9eefff.gif)
-*作ったゲーム*
 
 ## Project setup
 ```
@@ -23,6 +23,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-無理矢理インストール
-npm install --save --leg vuex   
