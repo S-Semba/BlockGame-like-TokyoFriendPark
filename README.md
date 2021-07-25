@@ -1,4 +1,4 @@
-#Block game like TokyoFriendPark in Japanese TV program
+# Block game like TokyoFriendPark in Japanese TV program
 ![Image from Gyazo](https://i.gyazo.com/a33af862ab6256decc3229632a9eefff.gif)
 
 ## Project setup
