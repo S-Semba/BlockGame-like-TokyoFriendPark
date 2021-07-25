@@ -1,3 +1,6 @@
+![Image from Gyazo](https://i.gyazo.com/a33af862ab6256decc3229632a9eefff.gif)
+*作ったゲーム*
+
 ## Project setup
 ```
 npm install
