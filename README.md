@@ -1,4 +1,4 @@
-# Block game that reproduces a Japanese TV program called TokyoFriendPark　　(東京フレンドパーク風ブロックゲーム)
+# Block game that reproduces a Japanese TV program called TokyoFriendPark　(東京フレンドパーク風ブロックゲーム)
 ![Image from Gyazo](https://i.gyazo.com/a33af862ab6256decc3229632a9eefff.gif)
 
 ## Project setup
