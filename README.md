@@ -1,5 +1,3 @@
-# vuex_block_connect
-
 ## Project setup
 ```
 npm install
