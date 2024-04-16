@@ -2,8 +2,8 @@
 ![Image from Gyazo](https://i.gyazo.com/a33af862ab6256decc3229632a9eefff.gif)
 
 ## Project setup
-```
-npm install
+```bash{iscopy=true}
+npm ci
 ```
 
 ### Compiles and hot-reloads for development
