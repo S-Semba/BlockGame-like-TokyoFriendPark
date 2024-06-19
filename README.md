@@ -12,6 +12,7 @@ npm run serve
 ```
 
 ### Compiles and minifies for production
+After build, push to remote and it will be deployed to GitHub Pages automatically.
 ```
 npm run build
 ```
